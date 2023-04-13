@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+.postbox .inside h2, .wrap [class$=icon32]+h2, .wrap h1, .wrap>h2:first-child{font-weight: bold;}
+.main-container{padding: 10px;}
+
